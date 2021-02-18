@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /50.html
+Sitemap: https://irenevu98.github.io/sitemap.xml
